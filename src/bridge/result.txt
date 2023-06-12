@@ -1,0 +1,4 @@
+Triangle filled with color
+red.
+Pentagon filled with color
+green.
